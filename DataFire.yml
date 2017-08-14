@@ -1,0 +1,8 @@
+options:
+  cors: true
+paths:
+  /reddit/links:
+    get:
+      action: reddit_rss/subreddit
+      input:
+        subreddit: gifs
