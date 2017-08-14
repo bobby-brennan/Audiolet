@@ -6,3 +6,5 @@ paths:
       action: reddit_rss/subreddit
       input:
         subreddit: gifs
+actions:
+  hello_world: ./hello_world.js
