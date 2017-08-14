@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@datafire/reddit_rss": "2.0.2"
+    "@datafire/reddit_rss": "2.0.2",
+    "@datafire/hacker_news": "2.0.1"
   }
 }

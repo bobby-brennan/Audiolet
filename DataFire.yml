@@ -8,3 +8,4 @@ paths:
         subreddit: gifs
 actions:
   hello_world: ./hello_world.js
+  hacker_news: ./hacker_news.js
